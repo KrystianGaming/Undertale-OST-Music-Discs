@@ -1,5 +1,3 @@
-# Undertale-OST-Music-Discs
-Undertale OST Music Discs
 ## **Resource Pack That Replaces Music Discs With Undertale OST**  
   
 List Of OST:
