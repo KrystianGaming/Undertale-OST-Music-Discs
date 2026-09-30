@@ -1,10 +1,9 @@
 {
   "pack": {
-    "pack_format": 4,
-    "supported_formats": {
-      "min_inclusive": 4,
-      "max_inclusive": 5
-    },
-    "description": "Toby Fox Music Disc Descriptions [1.13 - 1.15.2]"
+    "pack_format": 34,
+    "supported_formats": [34, 121],
+    "min_format": 34,
+    "max_format": 121,
+    "description": "By: Krystian2006 aka. Krystian_Gaming"
   }
 }
